@@ -5,3 +5,7 @@ Device Management is a lot like memory management.
 It manages how the devices talk to the drivers and the access programs have to other devices.
 It also can decide how long a device can run or be open for.
 It can programmed to turn off devices after they aren't needed to be ran anymore.
+File Management is one of the functions that you will see or deal with most of all. 
+It sets directories so the programs and devices know exactly where to access drivers and other important files for programs.
+It tracks where all your info is being stored and where it is at all times, if it is moved.
+Don't every move a system file to a random place on your computer or you could break your operating system and have to reinstall it.
