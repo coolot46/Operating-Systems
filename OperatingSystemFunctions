@@ -1,3 +1,7 @@
 Memory Management is one major function for Operating systems. 
 It has to move where all the memory is being allocated for each program or function running on the system.
 It also have to take back the memory not being used after a program is closed.
+Device Management is a lot like memory management.
+It manages how the devices talk to the drivers and the access programs have to other devices.
+It also can decide how long a device can run or be open for.
+It can programmed to turn off devices after they aren't needed to be ran anymore.
