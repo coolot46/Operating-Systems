@@ -1,0 +1,3 @@
+Memory Management is one major function for Operating systems. 
+It has to move where all the memory is being allocated for each program or function running on the system.
+It also have to take back the memory not being used after a program is closed.
